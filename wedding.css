@@ -82,7 +82,7 @@ button{
 /* ------------------------------------------------------- */
 @media screen and (max-width:600px){
     .container{
-        width: 350px;
+        width: 110%;
         background:radial-gradient(#f9d834,#ee2a7b,#6228d7);
         height: 1700px;
         margin-top: 0px;
