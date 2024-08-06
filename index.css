@@ -66,14 +66,14 @@ p{
         font-weight: bolder;
         position: absolute;
         color: rgb(20, 21, 21);
-        left: 50%;
+        left: 40%;
         top: 260px;
     } 
     p{
         color:rgb(239, 32, 167);
         font-size: 10px;
         position: absolute;
-        left: 50%;
+        left: 40%;
         top: 300px;
     } 
 
